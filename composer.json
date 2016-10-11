@@ -1,0 +1,10 @@
+{
+
+	"name":"davidScotcomms/composerTest",
+	"autoload":{
+		"psr-0":{
+			"davidScotcomms/composerTest":"src"
+		}
+	}
+
+}
