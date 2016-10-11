@@ -1,5 +1,5 @@
 <?php
-
+namespace lib;
 class ComposerTest{
 	
 	public function doTest(){

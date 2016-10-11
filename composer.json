@@ -3,7 +3,7 @@
 	"name":"davidScotcomms/composerTest",
 	"autoload":{
 		"psr-0":{
-			"":""
+			"lib":"./"
 		}
 	}
 
